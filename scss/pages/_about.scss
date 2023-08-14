@@ -1,0 +1,19 @@
+.main__project__top {
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  margin-top: 140px;
+}
+.main__project__h2 {
+  color: $white-color;
+  font-family: Space Grotesk;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 88px;
+  letter-spacing: -2.5px;
+}
+
+.main__project__btn {
+  margin-top: -70px;
+}

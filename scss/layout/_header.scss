@@ -1,0 +1,126 @@
+.header__container {
+  justify-content: space-between;
+  display: flex;
+  margin-top: 3.9rem;
+}
+.container {
+}
+.site__logo {
+}
+.sitenav {
+}
+.sitenav__list {
+  display: flex;
+  gap: 3.2rem;
+}
+.sitenav__item {
+}
+
+.btn__div {
+  color: $white-color;
+  font-family: Space Grotesk;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 2.286px;
+}
+
+.hero__tile {
+  color: $white-color;
+  font-family: Space Grotesk;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 88px;
+  letter-spacing: -2.5px;
+}
+.span__hr {
+  width: 492px;
+  height: 6px;
+  flex-shrink: 0;
+  border: 0;
+  background: $green-color;
+  margin-left: 140px;
+}
+
+.hero__content {
+}
+.hero__title {
+  width: 800px;
+  color: $white-color;
+  font-family: Space Grotesk;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 88px;
+  letter-spacing: -2.5px;
+}
+.h1__span {
+}
+.hero__title__hr {
+  width: 492px;
+  height: 6px;
+  flex-shrink: 0;
+  margin-left: 140px;
+  background: $green-color;
+  border: 0;
+}
+.hero__content__p {
+  margin-top: 4.3rem;
+  color: $light-white-color;
+  font-family: Space Grotesk;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+}
+.btn {
+  margin-top: 102px;
+  color: $white-color;
+  font-family: Space Grotesk;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 2.286px;
+}
+.btn__hr {
+  width: 120px;
+  height: 2px;
+  background: $green-color;
+  border: 0;
+}
+
+.hero__container {
+  display: flex;
+  margin-top: 127px;
+}
+.hero__man__image {
+  background-color: $black-color;
+  height: 720px;
+  width: 450px;
+  position: relative;
+}
+.hero__man__image .man__image {
+  object-fit: cover;
+  position: absolute;
+  bottom: 0;
+}
+
+.hero__man__image .oval__image {
+  position: absolute;
+  bottom: 12rem;
+  left: -64.5px;
+}
+
+.main__middle__hr {
+  width: 1110px;
+  height: 1px;
+  flex-shrink: 0;
+  margin-top: 6.5rem;
+}
+
+.section {
+  margin-top: -7rem;
+}
